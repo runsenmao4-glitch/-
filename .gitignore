@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local knowledge assets and generated vector database.
+data/*
+!data/.gitkeep
+db/*
+!db/.gitkeep
+
+# Local Streamlit/runtime artifacts.
+.streamlit/secrets.toml
+.pytest_cache/
+.ruff_cache/
