@@ -80,10 +80,3 @@ Python 缓存文件
 结果仅供参考，最终以系统算力为准。
 说明
 这是一个 PoC 项目，用于验证本地文档知识库、脱敏入库、RAG 检索和 Web 问答流程。生产使用前，需要进一步补充权限控制、日志审计、模型调用限流、测试覆盖和更严格的合规审查。
-
-
-C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
-
-C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
-
-
