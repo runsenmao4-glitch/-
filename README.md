@@ -124,3 +124,5 @@ python -m pytest tests
 项目已在 `.streamlit/config.toml` 中关闭 Streamlit 文件监听，以减少部分第三方依赖包在热更新扫描时产生的终端噪音。
 
 这是一个 PoC 项目，用于验证本地文档知识库、脱敏入库、RAG 检索和 Web 问答流程。生产使用前，需要进一步补充权限控制、日志审计、模型调用限流、测试覆盖和更严格的合规审查。
+
+项目已在 `.streamlit/config.toml` 中关闭 Streamlit 文件监听，以减少部分第三方依赖包在热更新扫描时产生的终端噪音。
